@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactDemoStore/static/css/main.b97bcc2e.css",
+    "main.js": "/ReactDemoStore/static/js/main.8f71a25e.js",
+    "static/media/rear.png": "/ReactDemoStore/static/media/rear.c2a2f2a3adb2973239e9.png",
+    "static/media/rear3.png": "/ReactDemoStore/static/media/rear3.4462c0cb3fd2f32bc70d.png",
+    "static/media/rear1.png": "/ReactDemoStore/static/media/rear1.56d5602b115db0a34195.png",
+    "static/media/rear4.png": "/ReactDemoStore/static/media/rear4.b1499e5a6ba95476acb4.png",
+    "static/media/about-us.png": "/ReactDemoStore/static/media/about-us.30318d16cf24a01c4a5e.png",
+    "static/media/seo.png": "/ReactDemoStore/static/media/seo.c3d11fff091c3119b50b.png",
+    "static/media/android.png": "/ReactDemoStore/static/media/android.e4746566505df18f78f9.png",
+    "index.html": "/ReactDemoStore/index.html",
+    "main.b97bcc2e.css.map": "/ReactDemoStore/static/css/main.b97bcc2e.css.map",
+    "main.8f71a25e.js.map": "/ReactDemoStore/static/js/main.8f71a25e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b97bcc2e.css",
+    "static/js/main.8f71a25e.js"
+  ]
+}
